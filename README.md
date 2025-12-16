@@ -1,4 +1,4 @@
-# mysql-queries
+
 # MySQL Top 10 Queries
 
 Curated list of advanced MySQL queries  
